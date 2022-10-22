@@ -1,0 +1,5 @@
+A new GET request for /userslist was received. It took 1.90 milliseconds to be resolved
+::ffff:127.0.0.1 - - [22/Oct/2022:20:57:11 +0000] "GET / HTTP/1.1" 200 58 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0"
+A new GET request for / was received. It took 5.97 milliseconds to be resolved
+::ffff:127.0.0.1 - - [22/Oct/2022:20:57:11 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3030/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0"
+A new GET request for /favicon.ico was received. It took 2.26 milliseconds to be resolved
