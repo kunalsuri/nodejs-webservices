@@ -14,3 +14,5 @@ node_modules
 # Ignore files related to API keys
 .env
 HelloWorldService/package-lock.json
+UserManagementService/package-lock.json
+UserManagementService/file.log
