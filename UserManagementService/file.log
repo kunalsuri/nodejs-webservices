@@ -9,3 +9,15 @@ A new GET request for / was received. It took 5.33 milliseconds to be resolved
 A new GET request for /favicon.ico was received. It took 1.89 milliseconds to be resolved
 ::1 - - [22/Oct/2022:22:25:06 +0000] "GET /userslist HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47"
 A new GET request for /userslist was received. It took 4.89 milliseconds to be resolved
+::1 - - [22/Oct/2022:22:33:45 +0000] "GET /userslist HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47"
+A new GET request for /userslist was received. It took 4.45 milliseconds to be resolved
+::1 - - [22/Oct/2022:22:33:45 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3030/userslist" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47"
+A new GET request for /favicon.ico was received. It took 1.78 milliseconds to be resolved
+::ffff:127.0.0.1 - - [22/Oct/2022:22:33:55 +0000] "GET /userslist HTTP/1.1" 200 - "-" "Java/17.0.4.1"
+A new GET request for /userslist was received. It took 1.45 milliseconds to be resolved
+::1 - - [22/Oct/2022:22:35:49 +0000] "GET /userslist HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47"
+A new GET request for /userslist was received. It took 1.66 milliseconds to be resolved
+::ffff:127.0.0.1 - - [22/Oct/2022:22:40:50 +0000] "GET /userslist HTTP/1.1" 200 - "-" "Java/17.0.4.1"
+A new GET request for /userslist was received. It took 1.44 milliseconds to be resolved
+::ffff:127.0.0.1 - - [22/Oct/2022:22:41:05 +0000] "GET /userslist HTTP/1.1" 200 - "-" "Java/17.0.4.1"
+A new GET request for /userslist was received. It took 1.26 milliseconds to be resolved
